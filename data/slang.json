@@ -1,0 +1,138 @@
+[
+  {
+    "question": "Garra",
+    "answer": "Garantert",
+    "variants": ["Garasje", "Garantert", "Garderobe"]
+  },
+  {
+    "question": "Særr",
+    "answer": "Seriøst",
+    "variants": ["Ser frem til", "Særling", "Seriøst"]
+  },
+  {
+    "question": "Sjæl",
+    "answer": "Samme her/jeg også",
+    "variants": ["Samme her/jeg også", "Sjakk", "Sjalu"]
+  },
+  {
+    "question": "Insje",
+    "answer": "Ta initiativ",
+    "variants": ["Innsjø", "Ta initiativ", "Inaktiv"]
+  },
+  {
+    "question": "Tæshe",
+    "answer": "Stjele",
+    "variants": ["Stjele", "Militær", "Sanitær"]
+  },
+  {
+    "question": "Mæb",
+    "answer": "Fin/søt/flott",
+    "variants": ["Primær", "Fin/søt/flott", "Formæle/gifte seg"]
+  },
+  {
+    "question": "Flus",
+    "answer": "Penger",
+    "variants": ["Fluefiske", "Fluesopp", "Penger"]
+  },
+  {
+    "question": "Å ghoste",
+    "answer": "Å kutte all kontakt med en potensiell partner uten å gi noen som helst forklaring",
+    "variants": [
+      "Å være redd",
+      "Å kutte all kontakt med en potensiell partner uten å gi noen som helst forklaring",
+      "Å se skrekkfilmer"
+    ]
+  },
+  {
+    "question": "Bæde",
+    "answer": "Tar av/klikka helt for meg (både positivt og negativt)",
+    "variants": [
+      "Tar av/klikka helt for meg (både positivt og negativt)",
+      "Å spise bær",
+      "Bærbar PC"
+    ]
+  },
+  {
+    "question": "Lægge",
+    "answer": "Når noe henger seg opp/går treigt",
+    "variants": [
+      "Legge teppe på gulvet",
+      "Lovende",
+      "Når noe henger seg opp/går treigt"
+    ]
+  },
+  {
+    "question": "Jas",
+    "answer": "Ja, ass",
+    "variants": ["Deilig", "Jeg lover", "Ja, ass"]
+  },
+  {
+    "question": "Doof",
+    "answer": "Dårlig/udugelig",
+    "variants": ["Dårlig/udugelig", "Dårlig samvittighet", "Å dra på hytta"]
+  },
+  {
+    "question": "FUS",
+    "answer": "Først/best",
+    "variants": ["Frem i tid", "Først/best", "Først og fremst"]
+  },
+  {
+    "question": "Å binge",
+    "answer": "Å se en hel tv-serie i løpet av kort tid",
+    "variants": [
+      "Å se en hel tv-serie i løpet av kort tid",
+      "Å spille bingo",
+      "Å se på Big Bang Theory"
+    ]
+  },
+  {
+    "question": "A jette",
+    "answer": "Å dra, stikke",
+    "variants": ["Å dra, stikke", "Å krangle", "Å danse"]
+  },
+  {
+    "question": "Avor",
+    "answer": "Å dra",
+    "variants": ["Alvorlig", "Å dra", "Alarmklokke"]
+  },
+
+  {
+    "question": "Wollah",
+    "answer": "Jeg lover, æresord",
+    "variants": ["Jeg lover, æresord", "Flott", "Noen som liker wool"]
+  },
+  {
+    "question": "Tært",
+    "answer": "Bra, kult",
+    "variants": [
+      "Bra, kult",
+      "Noe godt å spise",
+      "En del av den menneskelige fot"
+    ]
+  },
+  {
+    "question": "Ålø!",
+    "answer": "Wow!",
+    "variants": ["Noe du sier når du tar telefon", "Wow!", "Snakk med meg!"]
+  },
+  {
+    "question": "Du er en snack",
+    "answer": "Du er deilig.",
+    "variants": ["Du snakker mye.", "Du spiser mye godteri.", "Du er deilig."]
+  },
+  {
+    "question": "Grovt",
+    "answer": "Kul",
+    "variants": ["Skummel", "Intelligent", "Kul"]
+  },
+  {
+    "question": "Legit",
+    "answer": "Faktisk",
+    "variants": ["Nekter for", "Lovlig", "Faktisk"]
+  },
+  {
+    "question": "Cringe",
+    "answer": "Flaut",
+    "variants": ["Kringle", "Trist", "Flaut"]
+  }
+]

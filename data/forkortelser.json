@@ -1,0 +1,27 @@
+[
+  {
+    "question": "ITPD",
+    "answer": "Ikke tenk på det",
+    "variants": ["Ikke tro på det", "Ingen tviler på deg", "Ikke tenk på det"]
+  },
+  {
+    "question": "Seff",
+    "answer": "Selvfølgelig",
+    "variants": ["Vi sees", "Serier og filmer", "Selvfølgelig"]
+  },
+  {
+    "question": "EGT",
+    "answer": "Egentlig",
+    "variants": ["Egentrening", "Etterpå", "Egentlig"]
+  },
+  {
+    "question": "DD",
+    "answer": "Du da?",
+    "variants": ["Dårlig dag?", "Digg dame?", "Du da?"]
+  },
+  {
+    "question": "KK",
+    "answer": "OK/alt i orden",
+    "variants": ["OK/alt i orden", "Kvinner og klær", "Kanskje kommer"]
+  }
+]
